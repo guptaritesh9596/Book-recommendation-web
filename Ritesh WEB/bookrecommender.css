@@ -1,0 +1,68 @@
+
+a{
+    margin:70px ;
+}
+nav{
+    background-color: #FF4500;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+    background-color: black;
+    
+    
+    
+}
+ul,ol{
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    text-align: center;
+    text-decoration:underline ;
+    font-weight:normal;
+    color: #FF4500;
+}
+h3{
+    color: blue;
+}
+#color{
+    color:red;
+}
+img{
+    margin: 50px;
+}
+#image{
+    
+    background-color:lightgray;
+}
+#articleone{
+    background-color: darkorange;
+}
+#articles{
+    background-color: chartreuse;
+}
+#third{
+    background-color: pink;
+}
+#four{
+    color:darkmagenta;
+     ;
+}
+#feedback{
+    background-color: darkgoldenrod;
+}
+#ritesh{
+    
+    display: block;
+    margin: 0px auto;
+
+}
+#pdf{
+   background-color: #FF4500;
+   
+}
